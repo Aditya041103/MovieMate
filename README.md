@@ -1,2 +1,2 @@
-# MovieMate
-Find your next movie 
+# Recommend-Movie
+Movie recommendation using NLP
